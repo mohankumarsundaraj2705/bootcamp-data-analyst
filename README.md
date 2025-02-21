@@ -16,7 +16,7 @@ Each *day* contains multiple *tasks*, and each task includes:
 ## *🛠 Getting Started*  
 
 ### *1️⃣ Clone the Repository*  
-To download the repository, run:  
+To download the repository, run: 
 
 ```bash
 git clone https://github.com/your-username/Bootcamp-Structure.git
